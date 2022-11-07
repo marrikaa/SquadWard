@@ -1,0 +1,18 @@
+export default
+{"success":true,
+    "data": {
+        "Apartments":[
+    {"id":"181913649","neighborhood":"ვაკე","Adress":"ზ. ფალიაშვილის ქუჩა, ვაკე, ვაკის რაიონი, თბილისი","area":100.00,"bedroom":"2","room":"3","floor":"4/10","price":1000,"MobilePhone":"598575010","url":"https://static.my.ge/myhome/photos/7/3/2/6/5/large/13556237_1.jpg?v=6" },
+    {"id":"87743020","neighborhood":"ვაკეში","Adress":"ზ. ფალიაშვილის ქუჩა, ვაკე, ვაკის რაიონი, თბილისი","area":55.00,"bedroom":"2","room":"3","floor":"4/10","price":1000,"MobilePhone":"598575010","url":"https://static.my.ge/myhome/photos/7/3/2/6/5/large/13556237_1.jpg?v=6"},
+    {"id":"112126428","neighborhood":"ვაკეში","Adress":"ზ. ფალიაშვილის ქუჩა, ვაკე, ვაკის რაიონი, თბილისი","area":110.00,"bedroom":"2","room":"3","floor":"4/10","price":1000,"MobilePhone":"598575010","url":"https://static.my.ge/myhome/photos/7/3/2/6/5/large/13556237_1.jpg?v=6"},
+    {"id":"112126428","neighborhood":"ვაკეში","Adress":"ზ. ფალიაშვილის ქუჩა, ვაკე, ვაკის რაიონი, თბილისი","area":80.00,"bedroom":"2","room":"3","floor":"4/10","price":500,"MobilePhone":"598575010","url":"https://static.my.ge/myhome/photos/7/3/2/6/5/large/13556237_1.jpg?v=6"},
+    {"id":"112126428","neighborhood":"ვაკეში","Adress":"ზ. ფალიაშვილის ქუჩა, ვაკე, ვაკის რაიონი, თბილისი","area":110.00,"bedroom":"2","room":"3","floor":"4/10","price":1000,"MobilePhone":"598575010","url":"https://static.my.ge/myhome/photos/7/3/2/6/5/large/13556237_1.jpg?v=6"},
+    {"id":"112126428","neighborhood":"ვაკეში","Adress":"ზ. ფალიაშვილის ქუჩა, ვაკე, ვაკის რაიონი, თბილისი","area":110.00,"bedroom":"2","room":"3","floor":"4/10","price":1000,"MobilePhone":"598575010","url":"https://static.my.ge/myhome/photos/7/3/2/6/5/large/13556237_1.jpg?v=6"},
+    {"id":"181913649","neighborhood":"ვაკე","Adress":"ზ. ფალიაშვილის ქუჩა, ვაკე, ვაკის რაიონი, თბილისი","area":110.00,"bedroom":"2","room":"3","floor":"4/10","price":1000,"MobilePhone":"598575010","url":"https://static.my.ge/myhome/photos/7/3/2/6/5/large/13556237_1.jpg?v=6" },
+    {"id":"87743020","neighborhood":"ვაკეში","Adress":"ზ. ფალიაშვილის ქუჩა, ვაკე, ვაკის რაიონი, თბილისი","area":110.00,"bedroom":"2","room":"3","floor":"4/10","price":1000,"MobilePhone":"598575010","url":"https://static.my.ge/myhome/photos/7/3/2/6/5/large/13556237_1.jpg?v=6"},
+    {"id":"112126428","neighborhood":"ვაკეში","Adress":"ზ. ფალიაშვილის ქუჩა, ვაკე, ვაკის რაიონი, თბილისი","area":110.00,"bedroom":"2","room":"3","floor":"4/10","price":1000,"MobilePhone":"598575010","url":"https://static.my.ge/myhome/photos/7/3/2/6/5/large/13556237_1.jpg?v=6"},
+    {"id":"112126428","neighborhood":"ვაკეში","Adress":"ზ. ფალიაშვილის ქუჩა, ვაკე, ვაკის რაიონი, თბილისი","area":110.00,"bedroom":"2","room":"3","floor":"4/10","price":1000,"MobilePhone":"598575010","url":"https://static.my.ge/myhome/photos/7/3/2/6/5/large/13556237_1.jpg?v=6"},
+    {"id":"112126428","neighborhood":"ვაკეში","Adress":"ზ. ფალიაშვილის ქუჩა, ვაკე, ვაკის რაიონი, თბილისი","area":110.00,"bedroom":"2","room":"3","floor":"4/10","price":1000,"MobilePhone":"598575010","url":"https://static.my.ge/myhome/photos/7/3/2/6/5/large/13556237_1.jpg?v=6"},
+    {"id":"112126428","neighborhood":"ვაკეში","Adress":"ზ. ფალიაშვილის ქუჩა, ვაკე, ვაკის რაიონი, თბილისი","area":110.00,"bedroom":"2","room":"3","floor":"4/10","price":1000,"MobilePhone":"598575010","url":"https://static.my.ge/myhome/photos/7/3/2/6/5/large/13556237_1.jpg?v=6"},
+]}}
+    
